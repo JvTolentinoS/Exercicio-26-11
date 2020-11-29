@@ -1,0 +1,13 @@
+C:\Users\OttoHaru\Desktop\SENAI\Projeto\Exercicio-26-11\bin\Debug\netcoreapp3.1\Exercicio-26-11.exe
+C:\Users\OttoHaru\Desktop\SENAI\Projeto\Exercicio-26-11\bin\Debug\netcoreapp3.1\Exercicio-26-11.deps.json
+C:\Users\OttoHaru\Desktop\SENAI\Projeto\Exercicio-26-11\bin\Debug\netcoreapp3.1\Exercicio-26-11.runtimeconfig.json
+C:\Users\OttoHaru\Desktop\SENAI\Projeto\Exercicio-26-11\bin\Debug\netcoreapp3.1\Exercicio-26-11.runtimeconfig.dev.json
+C:\Users\OttoHaru\Desktop\SENAI\Projeto\Exercicio-26-11\bin\Debug\netcoreapp3.1\Exercicio-26-11.dll
+C:\Users\OttoHaru\Desktop\SENAI\Projeto\Exercicio-26-11\bin\Debug\netcoreapp3.1\Exercicio-26-11.pdb
+C:\Users\OttoHaru\Desktop\SENAI\Projeto\Exercicio-26-11\obj\Debug\netcoreapp3.1\Exercicio-26-11.csprojAssemblyReference.cache
+C:\Users\OttoHaru\Desktop\SENAI\Projeto\Exercicio-26-11\obj\Debug\netcoreapp3.1\Exercicio-26-11.AssemblyInfoInputs.cache
+C:\Users\OttoHaru\Desktop\SENAI\Projeto\Exercicio-26-11\obj\Debug\netcoreapp3.1\Exercicio-26-11.AssemblyInfo.cs
+C:\Users\OttoHaru\Desktop\SENAI\Projeto\Exercicio-26-11\obj\Debug\netcoreapp3.1\Exercicio-26-11.csproj.CoreCompileInputs.cache
+C:\Users\OttoHaru\Desktop\SENAI\Projeto\Exercicio-26-11\obj\Debug\netcoreapp3.1\Exercicio-26-11.dll
+C:\Users\OttoHaru\Desktop\SENAI\Projeto\Exercicio-26-11\obj\Debug\netcoreapp3.1\Exercicio-26-11.pdb
+C:\Users\OttoHaru\Desktop\SENAI\Projeto\Exercicio-26-11\obj\Debug\netcoreapp3.1\Exercicio-26-11.genruntimeconfig.cache
